@@ -5,11 +5,12 @@ Auto fill EDOM (Evaluasi Dosen oleh Mahasiswa) UPNVJ secara otomatis
 Script dibuat untuk mengisi EDOM secara cepat yang merupakan salah satu syarat mengikuti ujian pada UPNVJ
  
 <h3> Disclaimer </h3>
-Ini script autoclicker biasa bukan hack >:(
+<p>Ini script autoclicker biasa bukan hack >:(
 Hanya gunakan jika dosennya memang pantas mendapatkan rating baik / sangat baik
-Resiko penggunaan ditanggung oleh pengguna masing masing
+Resiko penggunaan ditanggung oleh pengguna masing masing</p>
 
-Cara Pakai
+
+<h2>Cara Pakai</h2>
 1. Copy code
 ```js
 var script = document.createElement("script");
