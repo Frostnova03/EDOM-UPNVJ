@@ -23,4 +23,4 @@ document.body.appendChild(script);
 
 2. Login SIAKAD. di halaman form EDOM buka Inspect Element, buka tab Console, paste di Console codenya.
 
-Still works on December 2021
+Still works on December 2021.
