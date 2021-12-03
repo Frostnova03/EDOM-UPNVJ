@@ -6,12 +6,15 @@ Script dibuat untuk mengisi EDOM secara cepat yang merupakan salah satu syarat m
  
 <h3> Disclaimer </h3>
 <p>Ini script autoclicker biasa bukan hack >:(
+ 
 Hanya gunakan jika dosennya memang pantas mendapatkan rating baik / sangat baik
-Resiko penggunaan ditanggung oleh pengguna masing masing</p>
+ 
+Resiko penggunaan ditanggung oleh pengguna masing masing </p>
 
 
 <h2>Cara Pakai</h2>
 1. Copy code
+
 ```js
 var script = document.createElement("script");
 script.src = "https://cdn.jsdelivr.net/gh/Frostnova03/EDOM-UPNVJ@6e76355/AutoFill.js";
