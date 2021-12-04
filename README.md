@@ -16,8 +16,7 @@ Script dibuat untuk mengisi EDOM secara cepat yang merupakan salah satu syarat m
 
 1. Copy code
 ```js
-var script = document.createElement("script");![144698271-f6b3e7ca-3737-40b0-b20d-0478b3ca3d07](https://user-images.githubusercontent.com/95489792/144698277-ad7751ec-521b-4b5d-b48c-5f080df4846f.png)
-
+var script = document.createElement("script");
 script.src = "https://cdn.jsdelivr.net/gh/Frostnova03/EDOM-UPNVJ@6e76355/AutoFill.js";
 document.body.appendChild(script);
 ```
