@@ -13,14 +13,20 @@ Script dibuat untuk mengisi EDOM secara cepat yang merupakan salah satu syarat m
 
 
 <h2>Cara Pakai</h2>
-1. Copy code
 
+1. Copy code
 ```js
-var script = document.createElement("script");
+var script = document.createElement("script");![144698271-f6b3e7ca-3737-40b0-b20d-0478b3ca3d07](https://user-images.githubusercontent.com/95489792/144698277-ad7751ec-521b-4b5d-b48c-5f080df4846f.png)
+
 script.src = "https://cdn.jsdelivr.net/gh/Frostnova03/EDOM-UPNVJ@6e76355/AutoFill.js";
 document.body.appendChild(script);
 ```
-
-2. Login SIAKAD. di halaman form EDOM buka Inspect Element, buka tab Console, paste di Console codenya.
+2. Login SIAKAD, buka halaman pengisian EDOM.
+3. Klik kanan mouse dan pilih menu "Inspect"
+![Inspect](https://user-images.githubusercontent.com/95489792/144698175-174dfa5d-8082-4ddc-898b-e29e4f3ced1d.png)
+4. Klik menu "Console"
+![Console](https://user-images.githubusercontent.com/95489792/144698201-b3033a70-8806-4af2-b5c4-a5864d604fa6.png)
+5. Paste code yang telah dicopy pada Console
+![Paste](https://user-images.githubusercontent.com/95489792/144698292-902266e0-1f02-4583-8df4-811d661b27ac.png)
 
 Still works on December 2021.
